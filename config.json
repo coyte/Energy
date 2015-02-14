@@ -1,0 +1,19 @@
+{
+    "mysql":{
+        "host":"192.168.15.13",
+        "user":"dummy",
+        "port":"3306",
+        "passwd":"mypass",
+        "db":"dummy"
+    },
+    "hardware":{
+        "heat":"ttyUSB0",
+        "elec":"ttyUSB1"
+    },
+    "environment":{
+        "tmpdir":"/tmp/logger",
+        "logdir":"value",
+        "loglevel":"debug",
+        "version":"L&G_2WR5_0.1"
+    }
+}
